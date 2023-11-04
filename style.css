@@ -2,3 +2,8 @@
   /*background-color: b;*/
   color: green;
 }
+
+#contato {
+  position: absolute;
+  top: 75%;
+}
