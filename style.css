@@ -4,6 +4,12 @@
   top: 90%;
 }
 
+#github {
+  color:blue;
+  position: absolute;
+  top: 90%;
+}
+
 .green {
   color: green;
 }
